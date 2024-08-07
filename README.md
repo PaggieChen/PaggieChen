@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud, Data, Security, and high-quality stuff!
 - 🌱 I’m currently learning Data and am open to new opportunities related!
 - 💞️ I’m looking to collaborate on Codebase
-- 📫 How to reach me: paggie.chen@mile.cloud ☺️
+- 📫 How to reach me: paggie.chen@mile.cloud
 - ⚡ Fun fact: ISTJ.
 
 
